@@ -2,7 +2,7 @@
 
 ## :books: Estudos
 - [Introdução ao PSO](PSO_estudo.ipynb)
-- [PSO aplicado ao TSP (Travelling salesman problem)](estudo_TSP.ipynb)
+- [PSO aplicado ao TSP (Travelling Salesman Problem)](estudo_TSP.ipynb)
 
 ## Referências
 
